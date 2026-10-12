@@ -1,14 +1,16 @@
-# Moustafa Sayed
+# Hi, I'm Moustafa Sayed 👋
 
 **AI & Backend Developer** · Computer Science student at Helwan National University, Cairo
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 I build Python backends with FastAPI and connect them to LLMs: retrieval-augmented generation (RAG), semantic search over vector embeddings, and the authentication, database and caching layers around them.
 
-- AI & Backend Engineering Intern at **Zedny** (2026): layered FastAPI backend, Cohere LLM integration, semantic search with pgvector, JWT authentication
-- Open to **AI engineering and backend internships and junior roles**
-- [LinkedIn](https://www.linkedin.com/in/moustafa-s-8b25a82b6)
+- 💼 AI & Backend Engineering Intern at **Zedny** (2026): layered FastAPI backend, Cohere LLM integration, semantic search with pgvector, JWT authentication
+- 🔎 Open to **AI engineering and backend internships and junior roles**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/moustafa-s-8b25a82b6)
 
-## Featured projects
+## 🚀 Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -19,7 +21,7 @@ I build Python backends with FastAPI and connect them to LLMs: retrieval-augment
 
 `Policy-management` and `Ai` were built as training tasks during my internship at Zedny.
 
-## Skills
+## 🛠️ Skills
 
 **Backend** · Python, FastAPI, REST APIs, SQLAlchemy, Pydantic, JWT authentication, role-based access control, pytest
 
@@ -33,6 +35,6 @@ I build Python backends with FastAPI and connect them to LLMs: retrieval-augment
 
 **Tools** · Docker, Git, Linux
 
-## Education
+## 🎓 Education
 
 B.Sc. Computer Science & Information Systems, Helwan National University (Oct 2023 – present)
